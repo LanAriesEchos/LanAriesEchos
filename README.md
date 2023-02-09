@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working Kaylah the school restriction workaround.
+I'm LanUAriesEchos! Welcome to my GitHub profile this is where you will find a lot of my stuff.
 
 <!--
 **LanAriesEchos/LanAriesEchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
